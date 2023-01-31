@@ -81,7 +81,7 @@ experiences:
           AWS lambda implementation.
             - Lambdas, SQS
       - role: Software Developer C#
-        time: 2019 - 2021
+        time: 2020 - 2021
         company: Symetry, Mexico City
         details: |
           Effectively coded software changes and alterations based on specific design specifications. 
@@ -89,7 +89,7 @@ experiences:
           Introduced and implemented a different type of innovative software.
           Django, WPF, C#,SQL Server,
       - role: Software Engeneer Jr
-        time: 2012 - 2014
+        time: 2018 - 2020
         company: High Pos de México, México City
         details: |
           Develop a system that handles asynchronous requests for PriceShoes through sockets and web service for requests from different airtime companies. Crediprice 2.0, web system that manages credits for clients, employees, golden providers of PriceShoes development in PHP, JS and bootstrap without framework using the MVC architecture
