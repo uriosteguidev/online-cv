@@ -37,12 +37,13 @@ sidebar:
         - item: NFL
           link:
 
+        - item: Excersise
+          link:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software Developer adept in bringing forth expertise in design, installation, unit testing and maintenance of software systems. 
-      Proficient in various platforms, languages as python C# react js. 
-      Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+      Highly skilled and motivated software engineer with 5 years of experience developing in multiple lenguages as backend developer. 
+      Seeking a challenging role, to leverage technical expertise and provide inovative solutions, driving project success.
 education:
     title: Education
     info:
@@ -71,28 +72,34 @@ education:
 experiences:
     title: Work Experience
     info:
+      - role: Sr. Software Engineer
+        time: 2023 - Present
+        company: Symetry, Mexico City
+        details:  I coordinated the IBC Squad team, implementing Scrum practices to enhance the IBC project continually. 
+          I introduced the integration of microservices using tools like Redis, thus optimizing system performance. 
+          Additionally, I managed client requirement comprehension, provided improvement suggestions, and planned new features to meet project needs.
+            - Python, C#, SQLServer, Docker, CI/CD
       - role: Full Stack Software Engineer
-        time: 2021 - Present
+        time: 2021 - 2023
         company: Konfio, México City
         details: |
-          Implemented and updated application modules under the direction of Senior Software Developers in Collections Tribe 
-          (Python & Flask as backend and React Js Redux as Front). Documentation and report and alerts with grafana
-          Scrum Champion Implementation (Analisys, Implementation, Pre-Planning, daily and Retrospective)
-          AWS lambda implementation.
+          Collaborated with Senior Software Developers within the Collections Tribe to implement and update application modules. Utilized Python and Flask for backend development, and React.js with Redux for frontend development. Additionally, contributed to documentation, report generation, and alerts integration using Grafana. 
+          Be part of Scrum Champion Implementation (Analisys, Implementation, Pre-Planning, daily and Retrospective)
+          Implemented AWS Lambda functions to enhance system functionality.
             - Lambdas, SQS
       - role: Software Developer C#
-        time: 2019 - 2021
+        time: 2020 - 2021
         company: Symetry, Mexico City
         details: |
-          Effectively coded software changes and alterations based on specific design specifications. 
-          Develop of bank programs, which help to better control equipment
-          Introduced and implemented a different type of innovative software.
-          Django, WPF, C#,SQL Server,
-      - role: Software Engeneer Jr
-        time: 2012 - 2014
+          Effectively implemented software modifications and enhancements according to precise design specifications. 
+          Developed banking software programs aimed at enhancing equipment management and control. 
+          Spearheaded the introduction and implementation of innovative software solutions. Proficient in Django, WPF, C#, and SQL Server.
+      - role: Software Engineer Jr
+        time: 2018 - 2020
         company: High Pos de México, México City
         details: |
-          Develop a system that handles asynchronous requests for PriceShoes through sockets and web service for requests from different airtime companies. Crediprice 2.0, web system that manages credits for clients, employees, golden providers of PriceShoes development in PHP, JS and bootstrap without framework using the MVC architecture
+          Develop a system that handles asynchronous requests for PriceShoes through sockets and web service for requests from different prepaid wireless companies. 
+          Crediprice 2.0, web system that manages credits for clients, employees, golden providers of PriceShoes development in PHP, JS and bootstrap without framework using the MVC architecture
 
 oss:
     title: OSS Contributions
@@ -107,20 +114,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django & Flask
+      - name: Python Frameworks (Django & Flask)
+        level: 80%
+
+      - name: C# 
+        level: 80%
+
+      - name: golang
+        level: 20%
+
+      - name: docker
         level: 80%
 
       - name: React Js & Redux
-        level: 70%
+        level: 50%
 
       - name: AWS Lambdas and SQS
-        level: 70%
+        level: 40%
 
-      - name: github
-        level: 80%
+      - name: github, gitlab, git and CI/CD
+        level: 50%
 
       - name: HTML5 & CSS
         level: 95%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Abisai Eliud Uriostegui Gonzalez</a>
